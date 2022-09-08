@@ -3,21 +3,5 @@
 
 thease are multples of 9  
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+36,99,54
+some more multiples added:
